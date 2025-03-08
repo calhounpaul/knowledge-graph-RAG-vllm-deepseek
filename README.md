@@ -40,7 +40,7 @@ The system consists of several integrated modules:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/kg-rag-demo.git
+   git clone https://github.com/calhounpaul/knowledge-graph-RAG-vllm-deepseek
    cd kg-rag-demo
    ```
 
