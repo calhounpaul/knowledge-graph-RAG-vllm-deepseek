@@ -8,3 +8,4 @@ networkx
 python-igraph
 matplotlib
 pycairo
+scipy
