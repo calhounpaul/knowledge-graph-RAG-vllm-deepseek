@@ -1,0 +1,9 @@
+{
+  "test_queries": 10,
+  "thread_count": 16,
+  "single_threaded_time": 2.20917,
+  "multi_threaded_time": 0.931255,
+  "speedup_factor": 2.3722503503336894,
+  "theoretical_speedup": 10,
+  "parallel_efficiency": 0.23722503503336895
+}

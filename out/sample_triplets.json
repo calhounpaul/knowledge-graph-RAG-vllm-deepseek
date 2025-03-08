@@ -1,0 +1,127 @@
+[
+  {
+    "subject": "Knowledge Graphs",
+    "predicate": "are",
+    "object": "semantic network"
+  },
+  {
+    "subject": "Knowledge Graphs",
+    "predicate": "represent",
+    "object": "structured information"
+  },
+  {
+    "subject": "structured information",
+    "predicate": "is represented as",
+    "object": "entities and relationships"
+  },
+  {
+    "subject": "entities",
+    "predicate": "are",
+    "object": "nodes"
+  },
+  {
+    "subject": "relationships",
+    "predicate": "are",
+    "object": "edges"
+  },
+  {
+    "subject": "Knowledge Graphs",
+    "predicate": "provide",
+    "object": "graph-based structure"
+  },
+  {
+    "subject": "graph-based structure",
+    "predicate": "models",
+    "object": "real-world knowledge"
+  },
+  {
+    "subject": "Knowledge Graphs",
+    "predicate": "enable",
+    "object": "efficient storage"
+  },
+  {
+    "subject": "Knowledge Graphs",
+    "predicate": "enable",
+    "object": "efficient retrieval"
+  },
+  {
+    "subject": "Knowledge Graphs",
+    "predicate": "enable",
+    "object": "efficient reasoning"
+  },
+  {
+    "subject": "Entities",
+    "predicate": "represent",
+    "object": "real-world objects"
+  },
+  {
+    "subject": "Entities",
+    "predicate": "represent",
+    "object": "concepts"
+  },
+  {
+    "subject": "Entities",
+    "predicate": "represent",
+    "object": "instances"
+  },
+  {
+    "subject": "Relationships",
+    "predicate": "define",
+    "object": "connections between entities"
+  },
+  {
+    "subject": "Knowledge Graphs",
+    "predicate": "are integrated with",
+    "object": "Retrieval-Augmented Generation"
+  },
+  {
+    "subject": "Knowledge Graphs and Retrieval-Augmented Generation",
+    "predicate": "offer",
+    "object": "robust framework"
+  },
+  {
+    "subject": "robust framework",
+    "predicate": "is for",
+    "object": "structured information retrieval"
+  },
+  {
+    "subject": "robust framework",
+    "predicate": "is for",
+    "object": "generation"
+  },
+  {
+    "subject": "document",
+    "predicate": "delves into",
+    "object": "details of both technologies"
+  },
+  {
+    "subject": "document",
+    "predicate": "delves into",
+    "object": "integration"
+  },
+  {
+    "subject": "document",
+    "predicate": "delves into",
+    "object": "applications"
+  },
+  {
+    "subject": "document",
+    "predicate": "delves into",
+    "object": "benefits"
+  },
+  {
+    "subject": "document",
+    "predicate": "delves into",
+    "object": "challenges"
+  },
+  {
+    "subject": "document",
+    "predicate": "provides",
+    "object": "comprehensive understanding"
+  },
+  {
+    "subject": "comprehensive understanding",
+    "predicate": "is of",
+    "object": "combined potential"
+  }
+]

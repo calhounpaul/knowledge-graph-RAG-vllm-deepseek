@@ -1,0 +1,6 @@
+Structured relationships in KG-RAG systems offer several key benefits:
+
+1. **Enhanced Factual Accuracy**: They reduce errors and hallucinations by grounding responses in verified sources.
+2. **Improved Context Understanding**: Entity connections provide richer context for query interpretation and enable multi-hop reasoning for complex queries.
+3. **Transparent Reasoning Paths**: They allow for explainable answers by tracing the reasoning process in the graph, enhancing user trust.
+4. **Reduced Hallucination**: By grounding responses in explicit knowledge, speculative outputs are minimized, ensuring consistency with verified sources.

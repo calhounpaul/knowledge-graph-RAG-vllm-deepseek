@@ -1,0 +1,35 @@
+{
+    "test_queries": [
+      "What is the relationship between Knowledge Graphs and RAG?",
+      "What are the benefits of using Knowledge Graphs?",
+      "How does RAG enhance language models?",
+      "What are the technical challenges in implementing KG-RAG?",
+      "Explain the process of building a knowledge graph"
+    ],
+    "graph_queries": [
+      "How do Knowledge Graphs enhance RAG systems?",
+      "What are the benefits of Knowledge Graph integration?",
+      "What are the technical challenges of KG-RAG implementation?",
+      "How do Knowledge Graphs improve accuracy?",
+      "How does RAG use external knowledge?"
+    ],
+    "hybrid_queries": [
+      "What are the applications of integrating Knowledge Graphs with RAG?",
+      "How does the integration of KG and RAG improve response accuracy?",
+      "What are the benefits of structured relationships in KG-RAG systems?",
+      "How do knowledge graphs help with multi-hop queries?",
+      "What challenges exist when scaling knowledge graphs?"
+    ],
+    "performance_benchmark_queries": [
+      "What is a Knowledge Graph?",
+      "How does RAG work?",
+      "What are the benefits of Knowledge Graphs?",
+      "Explain the integration of KG and RAG",
+      "What technical challenges exist in KG-RAG systems?",
+      "How do KG-RAG systems handle multi-hop queries?",
+      "What is the role of vector embeddings in RAG?",
+      "How can graph traversal improve information retrieval?",
+      "Compare graph-based and vector-based retrieval",
+      "What are triplets in knowledge graphs?"
+    ]
+  }

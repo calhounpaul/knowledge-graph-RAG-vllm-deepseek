@@ -1,0 +1,42 @@
+================================================================================
+KG RAG SYSTEM TEST SUMMARY
+Run completed at: 2025-03-08 03:24:01.949772
+Total execution time: 0:04:11.817754
+================================================================================
+
+SYSTEM CONFIGURATION:
+- Number of threads: 16
+- Database path: /home/paul/knowledge_graph/db
+- Input file: sample_data.txt
+- Output directory: ./out
+
+TEST RESULTS:
+- triplet_generation: ✓ PASSED
+- text_chunking: ✓ PASSED
+- file_processing: ✓ PASSED
+- rag_query: ✓ PASSED
+- knowledge_graph_building: ✓ PASSED
+- graph_query: ✓ PASSED
+- hybrid_query: ✓ PASSED
+- performance_benchmark: ✓ PASSED
+
+KNOWLEDGE GRAPH STATISTICS:
+- Total nodes: 270
+- Total edges: 251
+- Average node degree: 1.86
+- Maximum node degree: 14
+- Top connected entities:
+  * 'KG-RAG Integration' (14 connections)
+  * 'Knowledge Graphs' (13 connections)
+  * 'Retrieval-Augmented Generation' (11 connections)
+  * 'Healthcare and Life Sciences' (8 connections)
+  * 'RAG' (7 connections)
+
+TRIPLET EXTRACTION STATISTICS:
+- Total unique triplets extracted: 269
+
+OVERALL ASSESSMENT:
+All tests completed successfully. The KG RAG system is functioning as expected.
+
+Summary generated at 2025-03-08 03:24:01.949772
+================================================================================

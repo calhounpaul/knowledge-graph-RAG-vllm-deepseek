@@ -1,0 +1,10 @@
+openai
+networkx
+matplotlib
+nltk
+chromadb
+fuzzywuzzy
+networkx
+python-igraph
+matplotlib
+pycairo

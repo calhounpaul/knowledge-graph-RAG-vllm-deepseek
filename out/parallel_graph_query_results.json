@@ -1,0 +1,1262 @@
+[
+  {
+    "query": "What are the benefits of Knowledge Graph integration?",
+    "triplets": [
+      [
+        "Integration",
+        "combines",
+        "structured graph-based retrieval and vector-based semantic search"
+      ],
+      [
+        "Integration",
+        "enables",
+        "accurate, context-aware, and explainable information retrieval and generation"
+      ],
+      [
+        "Integration",
+        "involves",
+        "Extracting Triplets from Documents"
+      ],
+      [
+        "Integration",
+        "involves",
+        "Building a Knowledge Graph"
+      ],
+      [
+        "Integration",
+        "involves",
+        "Implementing Dual Retrieval Methods"
+      ],
+      [
+        "Integration",
+        "involves",
+        "Combining Results"
+      ],
+      [
+        "Integration",
+        "involves",
+        "Generating Responses"
+      ],
+      [
+        "Extracting Triplets from Documents",
+        "uses",
+        "NLP techniques"
+      ],
+      [
+        "Extracting Triplets from Documents",
+        "uses",
+        "natural language processing techniques"
+      ],
+      [
+        "Extracting Triplets from Documents",
+        "extracts",
+        "triplets in the form (subject, predicate, object)"
+      ],
+      [
+        "Building a Knowledge Graph",
+        "populates",
+        "graph with extracted triplets"
+      ],
+      [
+        "Building a Knowledge Graph",
+        "ensures",
+        "consistency with an ontology"
+      ],
+      [
+        "Building a Knowledge Graph",
+        "enriches",
+        "graph with additional metadata and attributes"
+      ],
+      [
+        "Implementing Dual Retrieval Methods",
+        "includes",
+        "Graph Traversal"
+      ],
+      [
+        "Implementing Dual Retrieval Methods",
+        "includes",
+        "Vector Similarity Search"
+      ],
+      [
+        "Combining Results",
+        "aggregates",
+        "results from both retrieval methods"
+      ],
+      [
+        "Combining Results",
+        "uses",
+        "ranking or fusion algorithms"
+      ],
+      [
+        "Combining Results",
+        "ensures",
+        "combined output is contextually relevant and comprehensive"
+      ],
+      [
+        "Generating Responses",
+        "uses",
+        "generative model"
+      ],
+      [
+        "Generating Responses",
+        "incorporates",
+        "reasoning paths from the knowledge graph"
+      ],
+      [
+        "structured relationships",
+        "in",
+        "knowledge graph"
+      ],
+      [
+        "structured relationships",
+        "reduce",
+        "errors"
+      ],
+      [
+        "structured relationships",
+        "reduce",
+        "hallucinations"
+      ],
+      [
+        "graph",
+        "ensures_consistency_with",
+        "ontology"
+      ],
+      [
+        "graph",
+        "enriched_with",
+        "additional metadata"
+      ],
+      [
+        "graph",
+        "enriched_with",
+        "attributes"
+      ],
+      [
+        "multiple relationships",
+        "in",
+        "graph"
+      ],
+      [
+        "tracing reasoning process",
+        "in",
+        "graph"
+      ],
+      [
+        "Better Handling of Multi-Hop Queries",
+        "traverses",
+        "multiple relationships"
+      ],
+      [
+        "explainable answers",
+        "by",
+        "tracing reasoning process"
+      ]
+    ],
+    "time_taken": 1.4708538055419922,
+    "status": "success"
+  },
+  {
+    "query": "What are the technical challenges of KG-RAG implementation?",
+    "triplets": [
+      [
+        "Technical challenges",
+        "remain in",
+        "KG-RAG integration"
+      ],
+      [
+        "KG-RAG integration",
+        "is extended to",
+        "multiple domains"
+      ],
+      [
+        "KG-RAG integration",
+        "shapes",
+        "future of AI-driven knowledge systems"
+      ],
+      [
+        "Domain-specific ontologies",
+        "are developed for",
+        "KG-RAG integration"
+      ],
+      [
+        "Domain-specific embeddings",
+        "are developed for",
+        "KG-RAG integration"
+      ],
+      [
+        "Technical Challenges",
+        "include",
+        "Aligning Vector Embeddings with Graph Structure"
+      ],
+      [
+        "Technical Challenges",
+        "include",
+        "Balancing Precision and Recall"
+      ],
+      [
+        "Technical Challenges",
+        "include",
+        "Efficiently Combining Results"
+      ],
+      [
+        "Technical Challenges",
+        "include",
+        "Handling Inconsistencies"
+      ],
+      [
+        "Technical Challenges",
+        "include",
+        "Scaling to Large Knowledge Graphs"
+      ],
+      [
+        "KG-RAG Integration",
+        "faces",
+        "Technical Challenges"
+      ],
+      [
+        "Aligning Vector Embeddings with Graph Structure",
+        "ensures",
+        "vector representations capture semantics"
+      ],
+      [
+        "Aligning Vector Embeddings with Graph Structure",
+        "ensure",
+        "vector representations capture the semantics of graph entities and relationships"
+      ],
+      [
+        "Balancing Precision and Recall",
+        "develop",
+        "hybrid ranking algorithms"
+      ],
+      [
+        "Efficiently Combining Results",
+        "design",
+        "fusion methods"
+      ],
+      [
+        "Handling Inconsistencies",
+        "address",
+        "discrepancies between text-based and graph-based representations"
+      ],
+      [
+        "Scaling to Large Knowledge Graphs",
+        "optimize",
+        "graph traversal and embedding techniques"
+      ],
+      [
+        "KG-RAG Integration",
+        "has_application",
+        "Question Answering Systems"
+      ],
+      [
+        "KG-RAG Integration",
+        "has_application",
+        "Recommendation Engines"
+      ],
+      [
+        "KG-RAG Integration",
+        "has_application",
+        "Information Retrieval"
+      ],
+      [
+        "KG-RAG Integration",
+        "has_application",
+        "Knowledge-Based Chatbots"
+      ],
+      [
+        "KG-RAG Integration",
+        "has_application",
+        "Healthcare and Life Sciences"
+      ],
+      [
+        "KG-RAG Integration",
+        "has_application",
+        "Financial Services"
+      ],
+      [
+        "KG-RAG Integration",
+        "provides",
+        "Enhanced Factual Accuracy"
+      ],
+      [
+        "KG-RAG Integration",
+        "provides",
+        "Improved Context Understanding"
+      ],
+      [
+        "KG-RAG Integration",
+        "provides",
+        "Better Handling of Multi-Hop Queries"
+      ],
+      [
+        "KG-RAG Integration",
+        "provides",
+        "Transparent Reasoning Paths"
+      ],
+      [
+        "KG-RAG Integration",
+        "provides",
+        "Reduced Hallucination"
+      ],
+      [
+        "KG-RAG Integration",
+        "has",
+        "Future Directions and Research Opportunities"
+      ],
+      [
+        "KG-RAG Integration",
+        "represents",
+        "significant advancement in the field of information retrieval and generation"
+      ],
+      [
+        "RAG",
+        "works_in",
+        "Retrieval Phase"
+      ],
+      [
+        "RAG",
+        "works_in",
+        "Generation Phase"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Factual Accuracy"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Up-to-Date Knowledge"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Scalability"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Transparency"
+      ],
+      [
+        "Knowledge Graphs",
+        "integrate_with",
+        "RAG"
+      ],
+      [
+        "Retrieval Phase",
+        "involves",
+        "retriever module searches knowledge corpus"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "has",
+        "Retrieval Phase"
+      ],
+      [
+        "Generation Phase",
+        "involves",
+        "generative model uses retrieved information"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "has",
+        "Generation Phase"
+      ],
+      [
+        "Factual Accuracy",
+        "reduces",
+        "hallucinations"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "provides",
+        "Factual Accuracy"
+      ],
+      [
+        "Up-to-Date Knowledge",
+        "incorporates",
+        "latest information"
+      ],
+      [
+        "Up-to-Date Knowledge",
+        "includes",
+        "latest information from external datasets"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "incorporates",
+        "Up-to-Date Knowledge"
+      ],
+      [
+        "Scalability",
+        "handles",
+        "diverse queries"
+      ],
+      [
+        "Scalability",
+        "leverages",
+        "large knowledge corpora"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "handles",
+        "Scalability"
+      ],
+      [
+        "Transparency",
+        "is ensured in",
+        "KG-RAG systems"
+      ],
+      [
+        "Transparency",
+        "provides",
+        "traceable sources"
+      ],
+      [
+        "Transparency",
+        "offers",
+        "traceable sources for generated responses"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "provides",
+        "Transparency"
+      ],
+      [
+        "Knowledge Graphs",
+        "integrated_with",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Knowledge Graphs",
+        "enable",
+        "structured reasoning"
+      ],
+      [
+        "Knowledge Graphs",
+        "combine",
+        "structured graph-based retrieval"
+      ],
+      [
+        "Knowledge Graphs",
+        "combine",
+        "vector-based semantic search"
+      ],
+      [
+        "Knowledge Graphs",
+        "are",
+        "semantic network"
+      ],
+      [
+        "Knowledge Graphs",
+        "represent",
+        "structured information"
+      ],
+      [
+        "Knowledge Graphs",
+        "model",
+        "real-world knowledge"
+      ],
+      [
+        "Knowledge Graphs",
+        "enable",
+        "efficient storage, retrieval, and reasoning"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Search Engines"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Recommendation Systems"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Semantic Web"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Data Integration"
+      ]
+    ],
+    "time_taken": 1.631908655166626,
+    "status": "success"
+  },
+  {
+    "query": "How do Knowledge Graphs enhance RAG systems?",
+    "triplets": [
+      [
+        "Knowledge Graphs",
+        "integrate_with",
+        "RAG"
+      ],
+      [
+        "Knowledge Graphs",
+        "integrated_with",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Knowledge Graphs",
+        "enable",
+        "structured reasoning"
+      ],
+      [
+        "Knowledge Graphs",
+        "combine",
+        "structured graph-based retrieval"
+      ],
+      [
+        "Knowledge Graphs",
+        "combine",
+        "vector-based semantic search"
+      ],
+      [
+        "Knowledge Graphs",
+        "are",
+        "semantic network"
+      ],
+      [
+        "Knowledge Graphs",
+        "represent",
+        "structured information"
+      ],
+      [
+        "Knowledge Graphs",
+        "model",
+        "real-world knowledge"
+      ],
+      [
+        "Knowledge Graphs",
+        "enable",
+        "efficient storage, retrieval, and reasoning"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Search Engines"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Recommendation Systems"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Semantic Web"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Data Integration"
+      ],
+      [
+        "RAG",
+        "works_in",
+        "Retrieval Phase"
+      ],
+      [
+        "RAG",
+        "works_in",
+        "Generation Phase"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Factual Accuracy"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Up-to-Date Knowledge"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Scalability"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Transparency"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "provides",
+        "semantic power"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "is",
+        "framework"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "combines",
+        "retrieval-based methods with generative language models"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "enhances",
+        "capabilities of large language models"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "has",
+        "Retrieval Phase"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "has",
+        "Generation Phase"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "provides",
+        "Factual Accuracy"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "incorporates",
+        "Up-to-Date Knowledge"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "handles",
+        "Scalability"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "provides",
+        "Transparency"
+      ],
+      [
+        "structured information",
+        "represented_as",
+        "entities and relationships"
+      ],
+      [
+        "Search Engines",
+        "enhance",
+        "search results with structured data"
+      ],
+      [
+        "Recommendation Systems",
+        "leverage",
+        "relationships to provide personalized recommendations"
+      ],
+      [
+        "Semantic Web",
+        "enable",
+        "linked data and interoperability across domains"
+      ],
+      [
+        "Data Integration",
+        "combine",
+        "heterogeneous data sources into a unified graph"
+      ],
+      [
+        "RAG systems",
+        "remain",
+        "current and accurate"
+      ]
+    ],
+    "time_taken": 1.7331578731536865,
+    "status": "success"
+  },
+  {
+    "query": "How do Knowledge Graphs improve accuracy?",
+    "triplets": [
+      [
+        "Search Engines",
+        "enhance",
+        "search results with structured data"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Search Engines"
+      ],
+      [
+        "Enhanced Factual Accuracy",
+        "reduces",
+        "errors"
+      ],
+      [
+        "Enhanced Factual Accuracy",
+        "reduces",
+        "hallucinations"
+      ],
+      [
+        "Enhanced Factual Accuracy",
+        "reduce",
+        "errors and hallucinations"
+      ],
+      [
+        "Enhanced Factual Accuracy",
+        "provide",
+        "grounded responses"
+      ],
+      [
+        "KG-RAG Integration",
+        "provides",
+        "Enhanced Factual Accuracy"
+      ],
+      [
+        "structured relationships",
+        "reduce",
+        "errors"
+      ],
+      [
+        "hallucinations",
+        "reduced_by",
+        "grounding responses in verified sources"
+      ],
+      [
+        "Factual Accuracy",
+        "reduces",
+        "hallucinations"
+      ],
+      [
+        "structured relationships",
+        "reduce",
+        "hallucinations"
+      ],
+      [
+        "grounded responses",
+        "are",
+        "reliable"
+      ],
+      [
+        "grounded responses",
+        "are",
+        "verifiable"
+      ],
+      [
+        "grounded responses",
+        "minimize",
+        "speculative outputs"
+      ],
+      [
+        "grounded responses",
+        "ensure",
+        "consistency with verified sources"
+      ],
+      [
+        "KG-RAG Integration",
+        "has_application",
+        "Question Answering Systems"
+      ],
+      [
+        "KG-RAG Integration",
+        "has_application",
+        "Recommendation Engines"
+      ],
+      [
+        "KG-RAG Integration",
+        "has_application",
+        "Information Retrieval"
+      ],
+      [
+        "KG-RAG Integration",
+        "has_application",
+        "Knowledge-Based Chatbots"
+      ],
+      [
+        "KG-RAG Integration",
+        "has_application",
+        "Healthcare and Life Sciences"
+      ],
+      [
+        "KG-RAG Integration",
+        "has_application",
+        "Financial Services"
+      ],
+      [
+        "KG-RAG Integration",
+        "provides",
+        "Improved Context Understanding"
+      ],
+      [
+        "KG-RAG Integration",
+        "provides",
+        "Better Handling of Multi-Hop Queries"
+      ],
+      [
+        "KG-RAG Integration",
+        "provides",
+        "Transparent Reasoning Paths"
+      ],
+      [
+        "KG-RAG Integration",
+        "provides",
+        "Reduced Hallucination"
+      ],
+      [
+        "KG-RAG Integration",
+        "faces",
+        "Technical Challenges"
+      ],
+      [
+        "KG-RAG Integration",
+        "has",
+        "Future Directions and Research Opportunities"
+      ],
+      [
+        "KG-RAG Integration",
+        "represents",
+        "significant advancement in the field of information retrieval and generation"
+      ],
+      [
+        "Knowledge Graphs",
+        "integrate_with",
+        "RAG"
+      ],
+      [
+        "Knowledge Graphs",
+        "integrated_with",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Knowledge Graphs",
+        "enable",
+        "structured reasoning"
+      ],
+      [
+        "Knowledge Graphs",
+        "combine",
+        "structured graph-based retrieval"
+      ],
+      [
+        "Knowledge Graphs",
+        "combine",
+        "vector-based semantic search"
+      ],
+      [
+        "Knowledge Graphs",
+        "are",
+        "semantic network"
+      ],
+      [
+        "Knowledge Graphs",
+        "represent",
+        "structured information"
+      ],
+      [
+        "Knowledge Graphs",
+        "model",
+        "real-world knowledge"
+      ],
+      [
+        "Knowledge Graphs",
+        "enable",
+        "efficient storage, retrieval, and reasoning"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Recommendation Systems"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Semantic Web"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Data Integration"
+      ],
+      [
+        "RAG",
+        "works_in",
+        "Retrieval Phase"
+      ],
+      [
+        "RAG",
+        "works_in",
+        "Generation Phase"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Factual Accuracy"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Up-to-Date Knowledge"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Scalability"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Transparency"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "provides",
+        "semantic power"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "is",
+        "framework"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "combines",
+        "retrieval-based methods with generative language models"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "enhances",
+        "capabilities of large language models"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "has",
+        "Retrieval Phase"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "has",
+        "Generation Phase"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "provides",
+        "Factual Accuracy"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "incorporates",
+        "Up-to-Date Knowledge"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "handles",
+        "Scalability"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "provides",
+        "Transparency"
+      ],
+      [
+        "structured information",
+        "represented_as",
+        "entities and relationships"
+      ],
+      [
+        "Recommendation Systems",
+        "leverage",
+        "relationships to provide personalized recommendations"
+      ],
+      [
+        "Semantic Web",
+        "enable",
+        "linked data and interoperability across domains"
+      ],
+      [
+        "Data Integration",
+        "combine",
+        "heterogeneous data sources into a unified graph"
+      ],
+      [
+        "Integration",
+        "combines",
+        "structured graph-based retrieval and vector-based semantic search"
+      ],
+      [
+        "Integration",
+        "enables",
+        "accurate, context-aware, and explainable information retrieval and generation"
+      ],
+      [
+        "Integration",
+        "involves",
+        "Extracting Triplets from Documents"
+      ],
+      [
+        "Integration",
+        "involves",
+        "Building a Knowledge Graph"
+      ],
+      [
+        "Integration",
+        "involves",
+        "Implementing Dual Retrieval Methods"
+      ],
+      [
+        "Integration",
+        "involves",
+        "Combining Results"
+      ],
+      [
+        "Integration",
+        "involves",
+        "Generating Responses"
+      ],
+      [
+        "Extracting Triplets from Documents",
+        "uses",
+        "NLP techniques"
+      ],
+      [
+        "Extracting Triplets from Documents",
+        "uses",
+        "natural language processing techniques"
+      ],
+      [
+        "Extracting Triplets from Documents",
+        "extracts",
+        "triplets in the form (subject, predicate, object)"
+      ],
+      [
+        "Building a Knowledge Graph",
+        "populates",
+        "graph with extracted triplets"
+      ],
+      [
+        "Building a Knowledge Graph",
+        "ensures",
+        "consistency with an ontology"
+      ],
+      [
+        "Building a Knowledge Graph",
+        "enriches",
+        "graph with additional metadata and attributes"
+      ],
+      [
+        "Implementing Dual Retrieval Methods",
+        "includes",
+        "Graph Traversal"
+      ],
+      [
+        "Implementing Dual Retrieval Methods",
+        "includes",
+        "Vector Similarity Search"
+      ],
+      [
+        "Combining Results",
+        "aggregates",
+        "results from both retrieval methods"
+      ],
+      [
+        "Combining Results",
+        "uses",
+        "ranking or fusion algorithms"
+      ],
+      [
+        "Combining Results",
+        "ensures",
+        "combined output is contextually relevant and comprehensive"
+      ],
+      [
+        "Generating Responses",
+        "uses",
+        "generative model"
+      ],
+      [
+        "Generating Responses",
+        "incorporates",
+        "reasoning paths from the knowledge graph"
+      ]
+    ],
+    "time_taken": 3.076061964035034,
+    "status": "success"
+  },
+  {
+    "query": "How does RAG use external knowledge?",
+    "triplets": [
+      [
+        "RAG",
+        "works_in",
+        "Retrieval Phase"
+      ],
+      [
+        "RAG",
+        "works_in",
+        "Generation Phase"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Factual Accuracy"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Up-to-Date Knowledge"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Scalability"
+      ],
+      [
+        "RAG",
+        "has_advantage",
+        "Transparency"
+      ],
+      [
+        "Knowledge Graphs",
+        "integrate_with",
+        "RAG"
+      ],
+      [
+        "Retrieval Phase",
+        "involves",
+        "retriever module searches knowledge corpus"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "has",
+        "Retrieval Phase"
+      ],
+      [
+        "Generation Phase",
+        "involves",
+        "generative model uses retrieved information"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "has",
+        "Generation Phase"
+      ],
+      [
+        "Factual Accuracy",
+        "reduces",
+        "hallucinations"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "provides",
+        "Factual Accuracy"
+      ],
+      [
+        "Up-to-Date Knowledge",
+        "incorporates",
+        "latest information"
+      ],
+      [
+        "Up-to-Date Knowledge",
+        "includes",
+        "latest information from external datasets"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "incorporates",
+        "Up-to-Date Knowledge"
+      ],
+      [
+        "Scalability",
+        "handles",
+        "diverse queries"
+      ],
+      [
+        "Scalability",
+        "leverages",
+        "large knowledge corpora"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "handles",
+        "Scalability"
+      ],
+      [
+        "Transparency",
+        "is ensured in",
+        "KG-RAG systems"
+      ],
+      [
+        "Transparency",
+        "provides",
+        "traceable sources"
+      ],
+      [
+        "Transparency",
+        "offers",
+        "traceable sources for generated responses"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "provides",
+        "Transparency"
+      ],
+      [
+        "Knowledge Graphs",
+        "integrated_with",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Knowledge Graphs",
+        "enable",
+        "structured reasoning"
+      ],
+      [
+        "Knowledge Graphs",
+        "combine",
+        "structured graph-based retrieval"
+      ],
+      [
+        "Knowledge Graphs",
+        "combine",
+        "vector-based semantic search"
+      ],
+      [
+        "Knowledge Graphs",
+        "are",
+        "semantic network"
+      ],
+      [
+        "Knowledge Graphs",
+        "represent",
+        "structured information"
+      ],
+      [
+        "Knowledge Graphs",
+        "model",
+        "real-world knowledge"
+      ],
+      [
+        "Knowledge Graphs",
+        "enable",
+        "efficient storage, retrieval, and reasoning"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Search Engines"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Recommendation Systems"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Semantic Web"
+      ],
+      [
+        "Knowledge Graphs",
+        "used_in",
+        "Data Integration"
+      ]
+    ],
+    "time_taken": 5.2716405391693115,
+    "status": "success"
+  }
+]
