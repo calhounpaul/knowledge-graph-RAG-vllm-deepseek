@@ -181,7 +181,7 @@ This approach significantly improves performance, especially for large documents
 
 After processing, you can expect to see knowledge graphs similar to:
 
-![Knowledge Graph](out/knowledge_graph_networkx.png)
+![Knowledge Graph](out/knowledge_graph_igraph.png)
 
 ### Sample Triplets
 
